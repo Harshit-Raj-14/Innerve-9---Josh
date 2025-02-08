@@ -24,20 +24,17 @@ Analyze the transcription of the live phone call to detect potential scam indica
 ### Key Scam Indicators
 - List detected red flags, such as urgency, impersonation, or phishing attempts.  
 
-### Strengths in Identifying the Scam
-- Highlight users awareness and effective responses, if any.  
-
 ### Weaknesses & Potential Risks
 - Identify moments where the user may have been vulnerable or misled.  
 
-### Suggestions for Improved Scam Detection
+### Recommended Actions
+- Steps the user should take next, such as reporting the call, blocking the number, or being cautious in future interactions.  
+
+### How to Protect Yourself
 - Provide actionable tips to recognize and avoid scams in future calls.  
 
 ### Key Insights
 - Summarize critical takeaways from the call, including scam patterns and tactics.  
-
-### Recommended Actions
-- Steps the user should take next, such as reporting the call, blocking the number, or being cautious in future interactions.  
 
 ### Conclusion
 - Brief summary of the call analysis, risk level, and final recommendations.  
